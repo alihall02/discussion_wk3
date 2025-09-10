@@ -1,0 +1,31 @@
+html {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(247, 213, 241);
+}
+nav {
+    background-color: rgb(216, 180, 248);
+}
+
+nav ul {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.aboutme{
+    font-family: Helvetica, sans-serif;
+    list-style: square;
+}
+h1 {
+    color: rgb(223, 59, 223);
+    text-decoration: underline;
+    font-weight: bolder;
+}
+h2 {
+    font-weight: bold;
+    color: rgb(213, 82, 145);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+img {
+    border: 5px dotted purple;
+}
